@@ -1,4 +1,4 @@
-module BootstrapImageCrop
+module BootstrapThumbnailCrop
   module Rails
     class Engine < ::Rails::Engine
     end
